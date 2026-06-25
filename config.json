@@ -1,0 +1,244 @@
+{
+  "empresa": {
+    "nombre": "GMD GROUP & SOLUTIONS",
+    "eslogan": "Iluminando hogares, empresas y proyectos con calidad y profesionalismo.",
+    "descripcion": "Soluciones de iluminación decorativa para hogares, empresas, oficinas, locales comerciales, fachadas, jardines y proyectos personalizados.",
+    "anio": 2026
+  },
+  "contacto": {
+    "telefono": "+51 960 233 042",
+    "telefonoSinFormato": "51960233042",
+    "whatsapp": "https://wa.me/51960233042",
+    "pais": "Perú"
+  },
+  "colores": {
+    "primary_dark": "#0d0d0d",
+    "primary_black": "#1a1a1a",
+    "secondary_dark": "#2a2a2a",
+    "light_gray": "#f5f5f5",
+    "gold": "#d4af37",
+    "orange": "#f39c12",
+    "orange_dark": "#e67e22",
+    "text_dark": "#333333",
+    "text_light": "#666666",
+    "border_color": "#e0e0e0"
+  },
+  "fuentes": {
+    "principal": "Segoe UI, Tahoma, Geneva, Verdana, sans-serif",
+    "alternativa": "Georgia, serif"
+  },
+  "responsive": {
+    "desktop": 1200,
+    "tablet": 1024,
+    "mobile": 768,
+    "mobile_small": 480
+  },
+  "animaciones": {
+    "duracion_default": "0.3s",
+    "duracion_entrada": "1s",
+    "easing": "ease-out"
+  },
+  "servicios": [
+    {
+      "id": 1,
+      "nombre": "Iluminación Residencial",
+      "icono": "fa-home",
+      "descripcion": "Diseños personalizados que crean ambientes cálidos y acogedores en tu hogar."
+    },
+    {
+      "id": 2,
+      "nombre": "Iluminación Empresarial",
+      "icono": "fa-building",
+      "descripcion": "Soluciones profesionales que mejoran la productividad y ambiente de tu negocio."
+    },
+    {
+      "id": 3,
+      "nombre": "Decoración LED",
+      "icono": "fa-sparkles",
+      "descripcion": "Efectos luminosos modernos que transforman cualquier espacio en algo especial."
+    },
+    {
+      "id": 4,
+      "nombre": "Iluminación de Jardines",
+      "icono": "fa-leaf",
+      "descripcion": "Ilumina tus áreas exteriores con estilo y elegancia."
+    },
+    {
+      "id": 5,
+      "nombre": "Fachadas Iluminadas",
+      "icono": "fa-city",
+      "descripcion": "Destaca tu negocio con iluminación profesional de fachadas."
+    },
+    {
+      "id": 6,
+      "nombre": "Proyectos Personalizados",
+      "icono": "fa-pencil-ruler",
+      "descripcion": "Diseños únicos adaptados a tus necesidades específicas."
+    },
+    {
+      "id": 7,
+      "nombre": "Instalación Profesional",
+      "icono": "fa-tools",
+      "descripcion": "Equipo especializado garantizando la mejor ejecución."
+    },
+    {
+      "id": 8,
+      "nombre": "Garantía y Mantenimiento",
+      "icono": "fa-check-circle",
+      "descripcion": "Servicio post-venta completo para tu tranquilidad."
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Tiras LED",
+      "icono": "fa-bars",
+      "descripcion": "Tiras LED RGB y blancas de última generación, flexibles y duraderas.",
+      "precio_minimo": 99,
+      "color_fondo": "linear-gradient(135deg, #d4af37 0%, #f39c12 100%)"
+    },
+    {
+      "id": 2,
+      "nombre": "Reflectores LED",
+      "icono": "fa-circle",
+      "descripcion": "Reflectores potentes para iluminación de fachadas y áreas exteriores.",
+      "precio_minimo": 149,
+      "color_fondo": "linear-gradient(135deg, #f39c12 0%, #e67e22 100%)"
+    },
+    {
+      "id": 3,
+      "nombre": "Paneles LED",
+      "icono": "fa-square",
+      "descripcion": "Paneles LED para oficinas, espacios y espacios interiores modernos.",
+      "precio_minimo": 199,
+      "color_fondo": "linear-gradient(135deg, #e67e22 0%, #d35400 100%)"
+    },
+    {
+      "id": 4,
+      "nombre": "Luces Decorativas",
+      "icono": "fa-fan",
+      "descripcion": "Lámparas y luces decorativas que añaden elegancia a cualquier ambiente.",
+      "precio_minimo": 79,
+      "color_fondo": "linear-gradient(135deg, #d4af37 0%, #c9a227 100%)"
+    },
+    {
+      "id": 5,
+      "nombre": "Lámparas Modernas",
+      "icono": "fa-lightbulb",
+      "descripcion": "Lámparas de diseño contemporáneo que complementan tu decoración.",
+      "precio_minimo": 129,
+      "color_fondo": "linear-gradient(135deg, #f39c12 0%, #d4af37 100%)"
+    },
+    {
+      "id": 6,
+      "nombre": "Sistemas Inteligentes",
+      "icono": "fa-microchip",
+      "descripcion": "Sistemas LED inteligentes controlables desde tu smartphone.",
+      "precio_minimo": 249,
+      "color_fondo": "linear-gradient(135deg, #e67e22 0%, #d4af37 100%)"
+    }
+  ],
+  "galeria": [
+    {
+      "id": 1,
+      "nombre": "Casa Residencial",
+      "descripcion": "Proyecto de iluminación decorativa en vivienda de lujo",
+      "categoria": "residencial"
+    },
+    {
+      "id": 2,
+      "nombre": "Oficina Moderna",
+      "descripcion": "Iluminación profesional en espacio de trabajo contemporáneo",
+      "categoria": "empresarial"
+    },
+    {
+      "id": 3,
+      "nombre": "Local Comercial",
+      "descripcion": "Solución de iluminación para tienda retail de productos",
+      "categoria": "comercial"
+    },
+    {
+      "id": 4,
+      "nombre": "Jardín Decorado",
+      "descripcion": "Iluminación ambiental en jardín exterior elegante",
+      "categoria": "jardin"
+    },
+    {
+      "id": 5,
+      "nombre": "Fachada Iluminada",
+      "descripcion": "Proyecto de iluminación para fachada empresarial",
+      "categoria": "fachada"
+    },
+    {
+      "id": 6,
+      "nombre": "Evento Especial",
+      "descripcion": "Iluminación decorativa para evento corporativo",
+      "categoria": "evento"
+    }
+  ],
+  "valores": [
+    {
+      "titulo": "Calidad Premium",
+      "icono": "fa-award",
+      "descripcion": "Productos de las mejores marcas internacionales"
+    },
+    {
+      "titulo": "Profesionalismo",
+      "icono": "fa-wrench",
+      "descripcion": "Equipo especializado con años de experiencia"
+    },
+    {
+      "titulo": "Satisfacción",
+      "icono": "fa-heart",
+      "descripcion": "Garantía y soporte completo post-venta"
+    }
+  ],
+  "seo": {
+    "titulo": "GMD GROUP & SOLUTIONS - Soluciones de Iluminación Profesional",
+    "descripcion": "GMD GROUP & SOLUTIONS - Soluciones profesionales de iluminación decorativa para hogares, empresas y proyectos personalizados.",
+    "palabras_clave": "iluminación LED, decoración luminosa, iluminación profesional, LED inteligente, soluciones de iluminación",
+    "autor": "GMD GROUP & SOLUTIONS"
+  },
+  "navegacion": [
+    {
+      "nombre": "Inicio",
+      "url": "#inicio"
+    },
+    {
+      "nombre": "Servicios",
+      "url": "#servicios"
+    },
+    {
+      "nombre": "Productos",
+      "url": "#productos"
+    },
+    {
+      "nombre": "Galería",
+      "url": "#galeria"
+    },
+    {
+      "nombre": "Nosotros",
+      "url": "#nosotros"
+    },
+    {
+      "nombre": "Contacto",
+      "url": "#contacto"
+    }
+  ],
+  "redes_sociales": {
+    "whatsapp": "https://wa.me/51960233042",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "twitter": ""
+  },
+  "performance": {
+    "lazy_loading": true,
+    "minify_css": false,
+    "minify_js": false,
+    "cache": true
+  },
+  "version": "1.0.0",
+  "fecha_creacion": "2026-06-24",
+  "estado": "produccion"
+}
